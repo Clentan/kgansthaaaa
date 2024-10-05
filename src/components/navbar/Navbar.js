@@ -45,7 +45,7 @@ const Navbar = () => {
           <div className="w-[80%] h-screen overflow-scroll absolute top-0 left-0 bg-gray-900 p-4 scrollbar-hide">
             <div className="flex flex-col gap-8 py-2 relative">
               <div>
-                <img className="w-32" src={logo} alt="logo" />
+              
                 <p className="text-sm text-gray-400 mt-2">
                 A proactive BSc Computer Science (Mathematical Science) student at the University of Limpopo with a strong academic background and experience. Possessing strong analytical ability and problem-solving skills with fluency in English. Keen to pursue a career in the tech industry with a focus on technical aspects, design and user-experience.
                 </p>
