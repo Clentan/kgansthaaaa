@@ -6,7 +6,6 @@ const User = ({ name, description, avatarSrc }) => {
     <div className="flex items-center p-4 rounded-lg shadow-lg max-w-xs bg-bodyColor  text-white">
       <img
         src={Logo}
-        alt={`${name}'s avatar`}
         className="w-16 h-16 rounded-full mr-4 border-2 border-white"
       />
       <div>
